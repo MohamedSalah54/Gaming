@@ -1,0 +1,340 @@
+{
+  "pc": [
+    {
+      "id": "1",
+      "title": "Cyberpunk 2077",
+      "genre": "Action RPG",
+      "release_date": "2020-12-10",
+      "developer": "CD Projekt Red",
+      "description": "An open-world action RPG set in the dystopian Night City, where players assume the role of V, a mercenary in search of a one-of-a-kind implant.",
+      "cover_image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S1_03_2560x1440-359e77d3cd0a40aebf3bbc130d14c5c7"
+    },
+    {
+      "id": "2",
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": "Action RPG",
+      "release_date": "2015-05-19",
+      "developer": "CD Projekt Red",
+      "description": "A narrative-driven, open-world RPG where players control Geralt of Rivia, a monster hunter on a quest to find his adopted daughter.",
+      "cover_image": "https://sm.ign.com/t/ign_in/review/t/the-witche/the-witcher-3-the-wild-hunt-review_hfpf.1200.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Doom Eternal",
+      "genre": "First-Person Shooter",
+      "release_date": "2020-03-20",
+      "developer": "id Software",
+      "description": "A fast-paced, first-person shooter where players battle demonic forces as the Doom Slayer.",
+      "cover_image": "https://www.dsogaming.com/wp-content/uploads/2020/03/doometernaltimes.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Red Dead Redemption 2",
+      "genre": "Action-Adventure",
+      "release_date": "2018-10-26",
+      "developer": "Rockstar Games",
+      "description": "An open-world Western epic that follows outlaw Arthur Morgan and his gang as they try to survive in 1899 America.",
+      "cover_image": "https://www.ixpap.com/images/2021/08/HD-RDR2-Wallpapers.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Hades",
+      "genre": "Rogue-like",
+      "release_date": "2020-09-17",
+      "developer": "Supergiant Games",
+      "description": "A rogue-like dungeon crawler where players control Zagreus, the son of Hades, as he attempts to escape the Underworld.",
+      "cover_image": "https://cdn.mobygames.com/covers/10377243-hades-playstation-4-front-cover.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Half-Life: Alyx",
+      "genre": "VR First-Person Shooter",
+      "release_date": "2020-03-23",
+      "developer": "Valve",
+      "description": "A virtual reality FPS set between the events of Half-Life and Half-Life 2, where players control Alyx Vance in a fight against an alien force.",
+      "cover_image": "https://gamerjournalist.com/wp-content/uploads/2020/03/Half-Life-Alyx-1.png"
+    },
+    {
+      "id": "7",
+      "title": "Control",
+      "genre": "Action-Adventure",
+      "release_date": "2019-08-27",
+      "developer": "Remedy Entertainment",
+      "description": "A supernatural third-person shooter where players explore the mysterious Federal Bureau of Control and its shifting architecture.",
+      "cover_image": "https://th.bing.com/th/id/R.ec7b2eb03bb70f61d17ed01fa76d95a6?rik=kNUYwVkZZKGVaA&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "8",
+      "title": "Stardew Valley",
+      "genre": "Simulation",
+      "release_date": "2016-02-26",
+      "developer": "ConcernedApe",
+      "description": "A farming simulation RPG where players can grow crops, raise animals, and build relationships with townsfolk.",
+      "cover_image": "https://th.bing.com/th/id/OIP.hG6zifapeD8HEKVGBAcargHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "9",
+      "title": "Among Us",
+      "genre": "Party Game",
+      "release_date": "2018-06-15",
+      "developer": "Innersloth",
+      "description": "A multiplayer party game where players work together to complete tasks on a spaceship while impostors try to sabotage their efforts.",
+      "cover_image": "https://th.bing.com/th/id/OIP.u7YKuuXeCLyYowHRPj1slAHaJ4?w=774&h=1032&rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "10",
+      "title": "Ori and the Will of the Wisps",
+      "genre": "Platformer",
+      "release_date": "2020-03-11",
+      "developer": "Moon Studios",
+      "description": "A visually stunning platformer that follows the adventures of Ori, a small guardian spirit, in a vibrant, hand-painted world.",
+      "cover_image": "https://cdn.mobygames.com/covers/3931180-ori-and-the-will-of-the-wisps-nintendo-switch-front-cover.jpg"
+    }
+  ],
+  "Ps": [
+    {
+      "id": "1",
+      "title": "The Last of Us Part II",
+      "genre": "Action-Adventure",
+      "release_date": "2020-06-19",
+      "developer": "Naughty Dog",
+      "description": "An emotionally charged action-adventure game that follows Ellie’s journey through a post-apocalyptic world filled with danger and moral ambiguity.",
+      "cover_image": "https://th.bing.com/th/id/OIP.mxQFqz82VcNLMPQcshuLYwHaJx?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "2",
+      "title": "Ghost of Tsushima",
+      "genre": "Action-Adventure",
+      "release_date": "2020-07-17",
+      "developer": "Sucker Punch Productions",
+      "description": "An open-world action-adventure game set in feudal Japan, where players assume the role of a samurai fighting to protect his homeland from Mongol invasion.",
+      "cover_image": "https://cdnb.artstation.com/p/assets/covers/images/029/304/717/large/mitch-mohrhauser-mitch-mohrhauser-ghost-boxart-1-thumb.jpg?1597116717"
+    },
+    {
+      "id": "3",
+      "title": "Spider-Man: Miles Morales",
+      "genre": "Action-Adventure",
+      "release_date": "2020-11-12",
+      "developer": "Insomniac Games",
+      "description": "An action-packed game that follows Miles Morales as the new Spider-Man, battling new threats and learning to harness his unique abilities.",
+      "cover_image": "https://th.bing.com/th/id/OIP.4jkj43y6Q-rw6-fU8S3a4wHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "4",
+      "title": "Final Fantasy VII Remake",
+      "genre": "Action RPG",
+      "release_date": "2020-04-10",
+      "developer": "Square Enix",
+      "description": "A reimagining of the classic RPG that follows Cloud Strife and his allies as they fight against the corrupt Shinra Corporation and the enigmatic Sephiroth.",
+      "cover_image": "https://assets.mycast.io/posters/final-fantasy-vii-fan-casting-poster-263458-medium.jpg?1669681397"
+    },
+    {
+      "id": "5",
+      "title": "Horizon Zero Dawn",
+      "genre": "Action RPG",
+      "release_date": "2017-02-28",
+      "developer": "Guerrilla Games",
+      "description": "An open-world RPG set in a post-apocalyptic world where players control Aloy, a hunter battling robotic creatures in a lush, futuristic landscape.",
+      "cover_image": "https://th.bing.com/th/id/OIP.haHzMYm6h9vZyJ2Mia1LVwAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "6",
+      "title": "Ratchet & Clank: Rift Apart",
+      "genre": "Platformer",
+      "release_date": "2021-06-11",
+      "developer": "Insomniac Games",
+      "description": "A platformer that follows Ratchet and Clank as they travel through different dimensions to stop an evil emperor from conquering the multiverse.",
+      "cover_image": "https://th.bing.com/th/id/OIP.sTFDKUXxznoF_fwUKs4ajQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7",
+      "title": "Death Stranding",
+      "genre": "Action",
+      "release_date": "2019-11-08",
+      "developer": "Kojima Productions",
+      "description": "An action game set in a post-apocalyptic world where players control Sam Porter Bridges, a delivery man tasked with reconnecting isolated communities.",
+      "cover_image": "https://th.bing.com/th/id/OIP.nosT-yTk_Zzb0btRU9xHVgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "8",
+      "title": "Demon's Souls",
+      "genre": "Action RPG",
+      "release_date": "2020-11-12",
+      "developer": "Bluepoint Games",
+      "description": "A remake of the classic action RPG where players explore a dark, challenging world filled with monstrous enemies and epic bosses.",
+      "cover_image": "https://th.bing.com/th/id/OIP.h8DYSTNN6EhGgeJloaqsSgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "9",
+      "title": "Gran Turismo 7",
+      "genre": "Racing",
+      "release_date": "2022-03-04",
+      "developer": "Polyphony Digital",
+      "description": "The latest entry in the Gran Turismo series, featuring realistic racing mechanics, a wide variety of cars, and detailed tracks.",
+      "cover_image": "https://th.bing.com/th/id/OIP.l8xqrYVpgi6Y91Tg-wwElgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "10",
+      "title": "Persona 5 Royal",
+      "genre": "JRPG",
+      "release_date": "2020-03-31",
+      "developer": "Atlus",
+      "description": "An enhanced version of the critically acclaimed JRPG Persona 5, featuring new characters, story elements, and gameplay improvements.",
+      "cover_image": "https://th.bing.com/th/id/OIP.-3tFChfFadsaYghl5yAJFQHaHa?rs=1&pid=ImgDetMain"
+    }
+  ],
+  "Xbox": [
+    {
+      "id": "1",
+      "title": "Halo Infinite",
+      "genre": "First-Person Shooter",
+      "release_date": "2021-12-08",
+      "developer": "343 Industries",
+      "description": "The latest installment in the Halo series, featuring Master Chief as he battles a new threat on the Halo ringworld, Zeta Halo.",
+      "cover_image": "https://images.hdqwalls.com/download/halo-infinite-10k-7w-3840x2400.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Forza Horizon 5",
+      "genre": "Racing",
+      "release_date": "2021-11-09",
+      "developer": "Playground Games",
+      "description": "An open-world racing game set in a vibrant recreation of Mexico, featuring a wide range of cars and diverse environments.",
+      "cover_image": "https://traxion.gg/wp-content/uploads/2021/08/Forza-Horizon-5-game-cover.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Gears 5",
+      "genre": "Third-Person Shooter",
+      "release_date": "2019-09-10",
+      "developer": "The Coalition",
+      "description": "The fifth main entry in the Gears of War series, following Kait Diaz as she uncovers the truth about her family and the Swarm threat.",
+      "cover_image": "https://th.bing.com/th/id/OIP.LXEOZlaCAZ-FqNJ5u15VsgHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "4",
+      "title": "Fable",
+      "genre": "Action RPG",
+      "release_date": "TBA",
+      "developer": "Playground Games",
+      "description": "A reboot of the beloved Fable series, promising a rich, fantasy world with humor, choice-driven gameplay, and an expansive open world.",
+      "cover_image": "https://th.bing.com/th/id/OIP.Yk-gUwe3IPg-ttk2wnq28QHaEO?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "5",
+      "title": "Sea of Thieves",
+      "genre": "Action-Adventure",
+      "release_date": "2018-03-20",
+      "developer": "Rare",
+      "description": "A multiplayer pirate adventure game where players explore an open world, search for treasure, and engage in ship battles.",
+      "cover_image": "https://th.bing.com/th/id/OIP.CKdnNeU56zlb6FthM5H_BgHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "6",
+      "title": "Microsoft Flight Simulator",
+      "genre": "Simulation",
+      "release_date": "2020-08-18",
+      "developer": "Asobo Studio",
+      "description": "A highly realistic flight simulator that allows players to pilot aircraft around the globe with stunning graphics and detailed environments.",
+      "cover_image": "https://th.bing.com/th/id/OIP.58xAp0y1AxdUQzFuxOmriAHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7",
+      "title": "Elden Ring",
+      "genre": "Action RPG",
+      "release_date": "2022-02-25",
+      "developer": "FromSoftware",
+      "description": "An action RPG from the creators of Dark Souls, featuring a vast open world, deep lore, and challenging combat, set in a world co-created by George R.R. Martin.",
+      "cover_image": "https://th.bing.com/th/id/OIP.HERMAyUVzo3DzgckW79BCAHaDz?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "8",
+      "title": "Dying Light 2",
+      "genre": "Action RPG",
+      "release_date": "2022-02-04",
+      "developer": "Techland",
+      "description": "An open-world zombie survival game where players navigate a vast city, make choices that impact the story, and fight off the infected.",
+      "cover_image": "https://gameranx.com/wp-content/uploads/2019/01/Dying-Light-2-4K-Wallpaper-1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Outriders",
+      "genre": "Third-Person Shooter",
+      "release_date": "2021-04-01",
+      "developer": "People Can Fly",
+      "description": "A cooperative RPG shooter where players explore a hostile alien planet, battle powerful enemies, and uncover the mystery behind an anomaly.",
+      "cover_image": "https://peoplecanfly.com/wp-content/uploads/2019/06/home.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Medium",
+      "genre": "Psychological Horror",
+      "release_date": "2021-01-28",
+      "developer": "Bloober Team",
+      "description": "A psychological horror game featuring dual-reality gameplay, where players control a medium who can explore both the real world and the spirit world.",
+      "cover_image": "https://th.bing.com/th/id/R.7198f53a87d3cb1d9fb96c62978de2c4?rik=TelTgsjJMlg5EQ&pid=ImgRaw&r=0"
+    }
+  ],
+  "Users": [
+    {
+      "id": "c216",
+      "username": "mohamed",
+      "email": "mohamed.salah199988@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5c83",
+      "username": "sadasdsa",
+      "email": "asdas@asdadaa.com",
+      "password": "123456"
+    },
+    {
+      "id": "f9b4",
+      "username": "mohamed",
+      "email": "asd@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "b3c2",
+      "username": "mohamed",
+      "email": "mohamed@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "f4a7",
+      "username": "mohamed",
+      "email": "salah@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "969b",
+      "username": "mohamed",
+      "email": "salah1@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "2686",
+      "username": "mohamed",
+      "email": "mohamed11@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "9935",
+      "username": "mohamed",
+      "email": "mohamed10@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "f543",
+      "username": "moahmed",
+      "email": "mohamed100@yahoo.com",
+      "password": "123456"
+    },
+    {
+      "id": "ba4a",
+      "username": "mohamedsalah199988",
+      "email": "mohamed1011@yahoo.com",
+      "password": "123456"
+    }
+  ]
+}
