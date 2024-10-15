@@ -1,8 +1,11 @@
 import React  from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import { useContext } from 'react';
+import { MyContext } from './MyContext';
 
 
-const Navbar = ({ isLogged, handleLogout }) => {
+const Navbar = () => {
+  const { isLogged, handleLogout } = useContext(MyContext);
   const navigate = useNavigate();
 
   const onLogoutClick = () => {

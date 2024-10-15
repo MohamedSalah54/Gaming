@@ -3,8 +3,9 @@ import { useNavigate } from 'react-router-dom';
 import { useContext } from 'react';
 import { MyContext } from './MyContext';
 
-const SignUpForm = ({ onLogin }) => {
+const SignUpForm = () => {
   
+  const {handleLogin} = useContext(MyContext)
   const navigate = useNavigate();
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
@@ -47,7 +48,7 @@ const SignUpForm = ({ onLogin }) => {
 
       if (createUserResponse.ok) {
         setSuccess('Registration successful!');
-        onLogin(email) 
+        handleLogin(email) 
         setTimeout(() => navigate('/'), 2000);  // Redirect to login page after success
       } else {
         setError('Registration failed. Please try again.');

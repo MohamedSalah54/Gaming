@@ -14,7 +14,6 @@ import { MyContext } from './Components/MyContext';
 
 
 const App = () => {
-  const [text,setText] = useState("");
 
   const [isLogged, setLogged] = useState(false);
 
@@ -36,10 +35,10 @@ const App = () => {
   };
 
   return (
-    <MyContext.Provider value={{text,setText}}>
+    <MyContext.Provider value={{ isLogged, handleLogout ,handleLogin}}>
     <Router>
       <main>
-      <Navbar isLogged={isLogged} handleLogout={handleLogout} />
+      <Navbar  />
         <Routes>
                 
           
@@ -50,11 +49,11 @@ const App = () => {
           <Route path="/ps5-games" element={<PsGames />} />
           <Route
             path="/login"
-            element={<SignInForm onLogin={handleLogin} />}
+            element={<SignInForm  />}
           />
           <Route
             path="/signup"
-            element={<SignUpForm onLogin={handleLogin} />}
+            element={<SignUpForm />}
           />
         </Routes>
       </main>

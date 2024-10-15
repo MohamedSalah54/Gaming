@@ -1,7 +1,11 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { MyContext } from './MyContext';
+import { useContext } from 'react';
 
-const SignInForm = ({ onLogin }) => {
+const SignInForm = () => {
+
+  const {handleLogin} = useContext(MyContext)
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
@@ -28,7 +32,7 @@ const SignInForm = ({ onLogin }) => {
       if (user) {
 
         // Redirect to the homepage or another page on successful sign-in
-        onLogin(email);
+        handleLogin(email);
 
         navigate('/');
       } else {
